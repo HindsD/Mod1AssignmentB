@@ -1,0 +1,15 @@
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\bin\Debug\net6.0\AppDevMod1AssignmentB.exe
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\bin\Debug\net6.0\AppDevMod1AssignmentB.deps.json
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\bin\Debug\net6.0\AppDevMod1AssignmentB.runtimeconfig.json
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\bin\Debug\net6.0\AppDevMod1AssignmentB.dll
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\bin\Debug\net6.0\AppDevMod1AssignmentB.pdb
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\AppDevMod1AssignmentB.csproj.AssemblyReference.cache
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\AppDevMod1AssignmentB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\AppDevMod1AssignmentB.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\AppDevMod1AssignmentB.AssemblyInfo.cs
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\AppDevMod1AssignmentB.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\AppDevMod1AssignmentB.dll
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\refint\AppDevMod1AssignmentB.dll
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\AppDevMod1AssignmentB.pdb
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\AppDevMod1AssignmentB.genruntimeconfig.cache
+C:\Users\Danny\source\repos\AppDevMod1AssignmentB\AppDevMod1AssignmentB\obj\Debug\net6.0\ref\AppDevMod1AssignmentB.dll
